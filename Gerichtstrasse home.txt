@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <title> Gerichtstraße, Berlin Wedding</title>
+    <style>
+    body{
+        background-color: #fffff8;
+    }
+        h2 {
+            font-family: verdana;
+            font-size: 30px;
+            color: #1a3300
+        }
+        div {
+            font-family: verdana;
+            font-size: 15px;
+         font-color:  #284d00;
+        }
+    
+    </style>
+    </head>
+    <body>
+        <h2>Gerichtstraße</h2>
+        <div>
+               
+  <video width="400" height="300" controls> <source src="Gerichtstraße.mp4"> 
+  </video> 
+<br> <a href="Gerichtstrasse Karte.html">Karte</link> <a href="Gerichtstrasse Sehenswürdigkeiten.html">Spaziergang</link>
+</p>
+  </div>
+ </body>
+    </html>

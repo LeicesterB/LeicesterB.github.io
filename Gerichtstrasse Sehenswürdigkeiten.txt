@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+    <title> Gerichtstraße, Berlin Wedding</title>
+    <style>
+    body{
+        background-color: #fffff8;
+    }
+        h2 {
+            font-family: verdana;
+            font-size: 30px;
+            color: #1a3300
+        }
+        div {
+            font-family: verdana;
+            font-size: 15px;
+         font-color:  #284d00;
+        }
+a href { font-color: #284d00;}
+    </style>
+    </head>
+    <body>
+        <h2>Gerichtstraße</h2>
+        <div>
+               
+  <video width="400" height="300" loop> <source src="Gerichtstraße.mp4"> 
+  </video> 
+<br> <a href="Gerichtstraße Karte.html" color:>Karte</a> <a href="Gerichtstraße Sehenswürdigkeiten.html">Spaziergang</a>
+</p>
+  </div>
+ </body>
+    </html>
+
+
+    <body>
+        <h2>Gerichtstraße</h2>
+        <div>
+                <img src="1.png" width ="400" height="300" alt="Max Josef Metzger Platz">
+<img src="2.png" width ="400" height="300" alt="Friedhof">
+<img src="3.png" width ="400" height="300" alt="Statue auf dem Fiedhof">
+<img src="4.png" width ="400" height="300" alt="am Silent Green">
+<img src="5.png" width ="400" height="300" alt="Silent Green">
+<img src="6.png" width ="400" height="300" alt="We der vom silent Green weg führt">
+<img src="7.png" width ="400" height="300" alt="">
+<img src="8.png" width ="400" height="300" alt="">
+<img src="9.png" width ="400" height="300" alt="Panke">
+<img src="10.png" width ="400" height="300" alt="Schilder an den Gerichtshöfen">
+<img src="11.png" width ="400" height="300" alt="Gerichtshöfe">
+
+  </div>
+ </body>
+    </html>
