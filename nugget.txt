@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <title> Gerichtstraße, Berlin Wedding</title>
+    <style>
+    body{
+        background-color: #fffff8;
+    }
+        h2 {
+            font-family: verdana;
+            font-size: 30px;
+            color: #1a3300
+        }
+        div {
+            font-family: verdana;
+            font-size: 15px;
+         font-color:  #284d00;
+        }
+a href { font-color: #284d00;}
+    </style>
+    </head>
+    <body>
+        <h2>Gerichtstraße</h2>
+        <div>
+
+Guten Tag Herr Albrecht,<br>
+Sie haben das Nugget gefunden!<br>
+Ich wollte nur zeigen, dass ich Ihnen nicht einen Link zu irgendeiner Internetseite geschickt habe, sondern <br>diese Seite tatsächlich von mir geschrieben wurde.
+
+<br> <a href="index.html">Home</a> <a href="karte.html">Karte</a>
+  </div>
+ </body>
+    </html>
