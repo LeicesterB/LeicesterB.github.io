@@ -24,7 +24,7 @@
                
   <video width="400" height="300" controls> <source src="Gerichtstraße.mp4"> 
   </video> 
-<br> <a href="Gerichtstrasse Karte.html">Karte</link> <a href="Gerichtstrasse Sehenswürdigkeiten.html">Spaziergang</link>
+<br> <a href="Karte.html">Karte</link> <a href="sights.html">Spaziergang</link>
 </p>
   </div>
  </body>
